@@ -16,6 +16,8 @@ This repository contains an **AutoCAD 3D drawing** of *The Gate of the Kiss* (**
 
 This drawing can be useful for **architectural studies, 3D modeling, cultural preservation, or educational purposes**.  
 
+## !! For more details about the creation process of this project, download the documentation PDF (available in Romanian).
+
 ## 🎨 About the Artwork  
 The **Gate of the Kiss** is part of the **Brâncuși Sculptural Ensemble** in Târgu Jiu, alongside *The Endless Column* and *The Table of Silence*. It is a **symbol of love and unity**, featuring two stylized lips carved on each pillar, representing the idea of an eternal kiss.  
 
@@ -26,7 +28,8 @@ The **Gate of the Kiss** is part of the **Brâncuși Sculptural Ensemble** in T�
 ## 💡 How to Use This Project  
 1. **Open the DWG file in AutoCAD** or any compatible CAD software.  
 2. **View, modify, or analyze the structure** – great for architects, engineers, or designers.  
-3. **Export as 3D models or technical drawings** if needed for further studies.  
+3. **Export as 3D models or technical drawings** if needed for further studies.
+
 
 ---
 
